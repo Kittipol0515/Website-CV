@@ -31,6 +31,8 @@ const Projects = ({ header }) => {
       .catch((err) => err);
   }, []);
 
+  const { bsSecondaryVariant } = theme;
+
   const numberOfItems = showMore && data ? data.length : 6;
 
   return (
@@ -50,7 +52,7 @@ const Projects = ({ header }) => {
             {!showMore && (
               <Button
                 style={styles.showMoreStyle}
-                variant={theme.bsSecondaryVariant}
+                variant={bsSecondaryVariant}
                 onClick={() => setShowMore(true)}
               >
                 show more
