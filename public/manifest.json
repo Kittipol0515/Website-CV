@@ -1,10 +1,10 @@
 {
-  "short_name": "Mayank Agarwal",
-  "name": "Mayank Agarwal - Portfolio",
+  "short_name": "Kittipol",
+  "name": "Kittipol Surapinchai - Portfolio",
   "icons": [
     {
-      "src": "images/logo.png",
-      "type": "image/png",
+      "src": "images/Creed.jpg",
+      "type": "image/jpg",
       "sizes": "425x225"
     }
   ],
