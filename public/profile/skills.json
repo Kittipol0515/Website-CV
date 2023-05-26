@@ -45,10 +45,6 @@
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
                 }
             ]
     }
